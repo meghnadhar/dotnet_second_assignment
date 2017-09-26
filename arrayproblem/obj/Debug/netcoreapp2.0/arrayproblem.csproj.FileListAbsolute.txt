@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\obj\Debug\netcoreapp2.0\arrayproblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\obj\Debug\netcoreapp2.0\arrayproblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\obj\Debug\netcoreapp2.0\arrayproblem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\bin\Debug\netcoreapp2.0\arrayproblem.deps.json
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\bin\Debug\netcoreapp2.0\arrayproblem.runtimeconfig.json
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\bin\Debug\netcoreapp2.0\arrayproblem.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\bin\Debug\netcoreapp2.0\arrayproblem.dll
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\bin\Debug\netcoreapp2.0\arrayproblem.pdb
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\obj\Debug\netcoreapp2.0\arrayproblem.dll
+C:\Users\Administrator\Desktop\dotnetassignment2\arrayproblem\obj\Debug\netcoreapp2.0\arrayproblem.pdb
